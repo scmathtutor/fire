@@ -1,1 +1,1 @@
-ECHO is on.
+Hello.. This is a test.
